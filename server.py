@@ -5,16 +5,16 @@ from twilio.jwt.access_token.grants import VoiceGrant
 from twilio.rest import Client
 from twilio.twiml.voice_response import VoiceResponse
 
-ACCOUNT_SID = 'AC***'
-API_KEY = 'SK***'
-API_KEY_SECRET = '***'
+ACCOUNT_SID = 'AC33f5a31bceaa37ff05827d6e1c6b876f'
+API_KEY = 'SK81b222c7315950a220c184b9e55c31f7'
+API_KEY_SECRET = 'RiH0O03Dfh0X3uerXXGyMUCH5hkmBh8W'
 PUSH_CREDENTIAL_SID = 'CR***'
-APP_SID = 'AP***'
+APP_SID = 'AP4d5faf2894056011493ca68743b67e2f'
 
 """
 Use a valid Twilio number by adding to your account via https://www.twilio.com/console/phone-numbers/verified
 """
-CALLER_NUMBER = '1234567890'
+CALLER_NUMBER = '3143552696'
 
 """
 The caller id used when a client is dialed.
